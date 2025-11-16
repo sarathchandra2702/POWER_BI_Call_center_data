@@ -131,13 +131,6 @@ Insights suggest adjusting staffing on high-volume days.
 
 ToolPurposePower BI DesktopDashboard creationPower QueryData transformationDAXCalculations & KPIsCSV DatasetSource data
 
-📁 Repository Structure
-├── README.md
-├── call_center_dashboard.pbix
-├── Call-Center-Dataset.csv
-└── images/
-     └── dashboard_preview.png
-
 
 🚀 How to Use:
 
