@@ -1,6 +1,6 @@
 📞 Call Centre Analytics Dashboard – Power BI
 
-    A complete analytics solution built in Power BI to analyze call centre operations, agent performance, customer satisfaction, and operational efficiency.
+A complete analytics solution built in Power BI to analyze call centre operations, agent performance, customer satisfaction, and operational efficiency.
 
 📌 Project Overview
     This project visualizes and analyzes call centre performance using an interactive Power BI dashboard.
